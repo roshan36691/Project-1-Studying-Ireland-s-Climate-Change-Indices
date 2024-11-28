@@ -1,4 +1,4 @@
-This repository contains the code and datasets used in my Master dissertation, which focuses on climate data analysis and visualization for Ireland and Germany, and its application to ecological experiments.
+This repository contains the codes and datasets used in my Master dissertation, which focuses on climate data analysis and visualization for Ireland and Germany, and its application to ecological experiments.
 
 # Dataset and Jupiter notebook files used in this project 
 ## For Ireland
