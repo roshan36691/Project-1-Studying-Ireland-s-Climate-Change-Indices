@@ -16,4 +16,3 @@ This repository contains the code and datasets used in my Master dissertation, w
 ## Web app development
 1. The web app is designed to visualize and interact with climate data, offering user-friendly interfaces for exploring trends, comparing indices, and more. The web app deployed can be accessed directly by using the link: https://climatepredictions.shinyapps.io/apppy/
 
-
